@@ -1,3 +1,4 @@
+worker: node runbot.bat
 @ECHO off
 
 CHCP 65001 > NUL
